@@ -294,6 +294,10 @@ footer {
   text-decoration: none;
 }
 
+.creditos {
+  display: flex;
+}
+
 /* Responsive Design */
 @media (min-width: 768px) {
   .container {
