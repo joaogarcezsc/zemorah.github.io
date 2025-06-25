@@ -296,6 +296,10 @@ footer {
 
 .creditos {
   display: flex;
+  align-self: center;
+  align-items: center;
+  align-content: center;
+  gap: 2px;
 }
 
 /* Responsive Design */
