@@ -297,6 +297,9 @@ footer {
 .creditos {
   display: flex;
   align-content: center;
+  align-self: center;
+  align-content: center;
+  align-items: center;
   gap: 4px;
 }
 
